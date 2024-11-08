@@ -1,5 +1,5 @@
 #include <iostream>
-#include "binary.hpp"
+#include "lib/binary.hpp"
 
 int main()
 {
